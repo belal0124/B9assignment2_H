@@ -257,6 +257,7 @@ margin-left: 75px;
     font-style: normal;
     text-align: center;
     color: rgba(19, 19, 24, 0.70);
+    line-height: 26px;
 }
 
 .third-section {
@@ -365,6 +366,7 @@ margin-left: 75px;
     font-style: normal;
     text-align: center;
     color: rgba(19, 19, 24, 0.70);
+    line-height: 26px;
 }
 
 .fourth-section{
@@ -382,6 +384,7 @@ border: 2px solid rgb(0, 255, 255);
         margin: 0 auto;
         margin-left: 0;
         /* margin-top: 48px; */
+        background: rgba(251, 181, 99, 0.05);
 
  }      
  
@@ -412,6 +415,7 @@ margin-top: 32px;
     text-align: center;
     color: rgba(19, 19, 24, 0.70);
     text-align: justify;
+    line-height: 26px;
  }
 
  .service {
@@ -421,5 +425,100 @@ border: 2px solid rgb(1, 29, 29);
         margin-left: 593px;
        margin-top: -288px;
         /* margin-top: 48px; */
+        background: rgba(41, 206, 246, 0.05);
 
- }           
+ }  
+ 
+ .service img{
+    width: 64px;
+    height: 64px;
+    margin-left: 32px;
+    margin-top: 32px;
+     }
+ .service h3{
+    width: 221px;
+    height: 30px;
+    font-size: 20px;
+      font-weight: 800;
+      color: #131318;
+      margin-left: 32px;
+      text-align: justify;
+  
+   }
+  
+   .service p{
+  
+      margin-left: 32px;
+      font-size: 16px;
+      font-family: 400;
+      font-style: normal;
+      text-align: center;
+      color: rgba(19, 19, 24, 0.70);
+      text-align: justify;
+      line-height: 26px;
+   }
+
+   .best-price {
+    border: 2px solid rgb(1, 29, 29);
+            max-width: 573px;
+            height: 284px;
+            margin-left: 330px;
+            background: rgba(233, 68, 68, 0.05);
+            margin-top: 24px;  
+     }  
+     .best-price img{
+        width: 64px;
+        height: 64px;
+        margin-left: 32px;
+        margin-top: 32px;
+
+     }
+
+     .best-price h3{
+        width: 320px;
+        height: 30px;
+        font-size: 24px;
+          font-weight: 800;
+          color: #131318;
+          margin-left: 32px;
+          line-height: normal;
+
+     }
+
+     .best-price p{
+        margin-left: 32px;
+        font-size: 16px;
+        font-family: 400;
+        font-style: normal;
+        text-align: center;
+        color: rgba(19, 19, 24, 0.70);
+        text-align: justify;
+        line-height: 26px;
+     }
+
+     .deals {
+        margin-top: 300px;
+        border: 2px solid green;
+        width: 643px;
+        height: 106px;
+        background: #FFF;
+        margin-left: 380px;
+     }
+
+     .deals h1 {
+        font-size: 30px;
+    font-weight: 800;
+    color: #131318;
+    text-align: center;
+     }
+
+     .deals p{
+        font-size: 16px;
+        font-family: 400;
+        font-style: normal;
+        text-align: center;
+        color: rgba(19, 19, 24, 0.70);
+        line-height: 26px;
+        margin-top: 5px;
+
+     }
