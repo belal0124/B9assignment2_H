@@ -159,7 +159,7 @@ margin-left: 75px;
     }
 
     .popular-section{
-        border: 2px solid red;
+        /* border: 2px solid red; */
         max-width: 1170px;
         height: 550px;
         margin: 0 auto;
@@ -167,7 +167,7 @@ margin-left: 75px;
             }
 
     .popular-container {
-        border: 2px solid red;
+        /* border: 2px solid red; */
         width: 600px;
         height: 550px;
         /* align-items: center; */
@@ -184,6 +184,7 @@ margin-left: 75px;
         font-weight: 800;
         text-align: left;
         line-height: normal;
+        
     }    
     .popular-container p{
         color: rgba(19, 19, 24, 0.70);
@@ -192,7 +193,25 @@ margin-left: 75px;
         font-style: normal;
         line-height: 26px;
         display: flex;
+               
     }
+
+    
+
+    .popular-container button{
+
+        color: #FFF;
+        text-align: center;
+        font-size: 20px;
+        font-style: normal;
+        font-weight: 800;
+        width: 174px;
+        height: 52px;
+        border-radius: 8px;
+        background: #FF5400;
+                
+    }
+        
     .popular-image {
                 /* border: 2px solid red; */
                 width: 540px;
@@ -202,4 +221,205 @@ margin-left: 75px;
                 /* justify-content: center;  */
                    /* display: inline; */
                    float: right;
-            }        
+            }    
+            
+.choose{
+    /* border: 2px solid green; */
+    width: 478px;
+    height: 50px;
+    margin-top: 100px;
+    justify-content: center;
+    display: inline-flex;
+    align-items: center;
+    margin-left: 480px;
+
+    
+}      
+
+.choose h1 {
+    font-size: 35px;
+    font-weight: 800;
+    color: #131318;
+    text-align: center;
+    
+}
+.dolor {
+    /* border: 2px solid blueviolet; */
+    width: 643px;
+    height: 52px;
+    margin-left: 398px;
+    margin-top: 24px;
+    }
+
+.dolor p {
+    font-size: 16px;
+    font-family: 400;
+    font-style: normal;
+    text-align: center;
+    color: rgba(19, 19, 24, 0.70);
+}
+
+.third-section {
+ border: 2px solid  red;
+ width: 1170px;
+ height: 947px;
+ margin: 0 auto;
+ margin-top: 45px;
+}
+
+.section-1 {
+    border: 2px solid greenyellow;
+    width: 573px;
+    height: 300px;
+    float: left;
+    
+}
+
+.section-1 h1{
+    border: 2px solid beige;
+    font-size: 28px;
+    font-weight: 800;
+    text-align: center;
+    font-style: normal;
+    color: #0e0b0b;
+    width: 120px;
+    height: 35px;
+}
+.section-2 {
+    border: 2px solid rgb(73, 116, 9);
+    width: 573px;
+    height: 300px;
+    float: right;
+    
+}
+.section-3 {
+    margin-top: 24px;
+    border: 2px solid rgb(34, 9, 116);
+    width: 374px;
+    height: 286px;
+    float: left; 
+}
+.section-4 {
+    margin-top: 328px;
+    border: 2px solid rgb(116, 9, 32);
+    width: 474px;
+    height: 286px;
+    margin-left: 394px;
+    }
+
+    .section-5 {
+    margin-top: -289px;
+    border: 2px solid rgb(191, 15, 15);
+    width: 274px;
+    height: 286px;
+    /* float: inline-end; */
+    margin-left: 893px;
+    }
+
+    .section-6 {
+    margin-top: 24px;
+    border: 2px solid rgb(34, 9, 116);
+    width: 473px;
+    height: 300px;
+    float: left; 
+}
+
+.section-7 {
+    margin-top: 24px;
+    border: 2px solid rgb(34, 9, 116);
+    width: 673px;
+    height: 300px;
+    float: right; 
+}
+.why{
+    /* border: 2px solid green; */
+    width: 307px;
+    height: 50px;
+    margin-top: 100px;
+    justify-content: center;
+    display: inline-flex;
+    align-items: center;
+    margin-left: 566px;
+
+    
+}      
+
+.why h1 {
+    font-size: 35px;
+    font-weight: 800;
+    color: #131318;
+    text-align: center;
+    
+}
+.diner {
+    /* border: 2px solid blueviolet; */
+    width: 643px;
+    height: 52px;
+    margin-left: 398px;
+    margin-top: 24px;
+    }
+
+.diner p {
+    font-size: 16px;
+    font-family: 400;
+    font-style: normal;
+    text-align: center;
+    color: rgba(19, 19, 24, 0.70);
+}
+
+.fourth-section{
+        border: 2px solid red;
+        max-width: 1170px;
+        height: 284px;
+        margin: 0 auto;
+        margin-top: 48px;
+            }
+
+ .hotel {
+border: 2px solid rgb(0, 255, 255);
+        max-width: 573px;
+        height: 284px;
+        margin: 0 auto;
+        margin-left: 0;
+        /* margin-top: 48px; */
+
+ }      
+ 
+ .hotel img{
+width: 64px;
+height: 64px;
+margin-left: 32px;
+margin-top: 32px;
+ }
+
+ .hotel h3{
+  width: 221px;
+  height: 30px;
+  font-size: 20px;
+    font-weight: 800;
+    color: #131318;
+    margin-left: 32px;
+    text-align: justify;
+
+ }
+
+ .hotel p{
+
+    margin-left: 32px;
+    font-size: 16px;
+    font-family: 400;
+    font-style: normal;
+    text-align: center;
+    color: rgba(19, 19, 24, 0.70);
+    text-align: justify;
+ }
+
+ .service {
+border: 2px solid rgb(1, 29, 29);
+        max-width: 573px;
+        height: 284px;
+        margin-left: 593px;
+       margin-top: -288px;
+        /* margin-top: 48px; */
+
+ }           
