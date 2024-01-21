@@ -672,7 +672,7 @@ margin-top: 32px;
 
 
 .news-section{
-        border: 2px solid red;
+        /* border: 2px solid red; */
         max-width: 1170px;
         height: 422px;
         margin: 0 auto;
@@ -688,8 +688,16 @@ margin-top: 32px;
             float: right;
 }       
 
+.travel {
+    border: 2px solid yellow;
+    width: 324px;
+    height: 120px;
+
+}
+
     .news-container {
-        border: 2px solid red;
+        border: 1px solid #FF5400;
+        border-radius: 16px;
         width: 480px;
         height: 420px;
         /* align-items: center; */
@@ -787,28 +795,38 @@ margin-top: 32px;
 .long-journey {
 
     margin-top: 34px;
-    border: 2px solid black;
+    /* border: 2px solid black; */
     width: 1335px;
     height: 500px;
+    background: rgba(19, 19, 24, 0.05);
 
 }
 
 .long  {
     margin-top: 34px;
-    border: 2px solid black;
+    /* border: 2px solid black; */
     width: 241px;
-    height: 60px;
-    margin-left: 641px;
+    height: 53px;
+    margin-left: 540px;
     margin-top: 100px;
+    
 }
 
 .long img{
-    width:  48px;
-    height: 56px;
-    margin-left: 500px;
-    margin-top: 100px;
+    width:  40px;
+    height: 48px;
+    
+    float: left;
 }
+
 .long p{
+    width:  258px;
+    height: 50px;
+    /* margin-left: 50px; */
+    font-size: 25px;
+    font-weight: 800;
+    /* margin-top: 15px; */
+    text-align: center;
 
 
 }
@@ -816,9 +834,60 @@ margin-top: 32px;
         color: #FF5400;
         font-weight: 800;
     }
+.lorem {
+    /* border: 2px solid green; */
+    width: 769px;
+    height: 52px;
+    margin-left: 285px;
+    margin-top: 15px;
+    }
+
+.lorem p{
+    color: #5A5A5D;
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+    line-height: 20px;
+    margin-top: 5px;
+}    
+
+.line hr{
+    margin-top: 20px;
+    margin-left: 0px;
+    width: 1335px;
+    height: 0px;
+    color: none;
+}
+
+.social {
+  /* border: 2px solid blue; */
+  width: 175px;
+  height: 24px;
+  margin-top: 5px;
+  margin-left: 540px;
+}
 
 
-.nav-container img{
+
+.footer {
+ /* border: 2px solid black; */
+ width: 191px;
+ height: 40px;
+ margin-left: 533px;
+ margin-top: 105px;
+
+}
+
+.footer  p {
+  font-size: 16px;
+  font-weight: 300;
+  text-align: center;
+  color: #131318;
+  font-style: normal;
+  line-height: normal;
+}
+
+/* .nav-container img{
     width:  48px;
     height: 56px;
 }
@@ -828,4 +897,4 @@ margin-top: 32px;
   font-weight: 800;
   color: #131318;
   white-space: nowrap;
-} */
+} */ 
